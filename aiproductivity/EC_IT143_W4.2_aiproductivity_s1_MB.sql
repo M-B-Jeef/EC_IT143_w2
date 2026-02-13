@@ -1,0 +1,1 @@
+-- Q: How many records exist per job_role?

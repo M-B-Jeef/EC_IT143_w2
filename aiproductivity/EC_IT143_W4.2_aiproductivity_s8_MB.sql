@@ -1,0 +1,1 @@
+EXEC dbo.usp_ai_productivity_features;

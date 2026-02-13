@@ -1,0 +1,3 @@
+-- A: We will query indian_engineering_student_placement
+-- We will count total students
+-- Then validate results
